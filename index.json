@@ -1,0 +1,11 @@
+{
+  "org": "scikit-optimize",
+  "repo": "scikit-optimize",
+  "versions": [
+    {
+      "commit": "a2369ddbc332d16d8ff173b12404b03fea472492",
+      "tag": "v0.9.0",
+      "parsed_at": "2026-10-18T13:53:25.954189+00:00"
+    }
+  ]
+}
