@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scikit-optimize/scikit-optimize/commit/a2369ddbc332d16d8ff173b12404b03fea472492",
       "git:hexsha": "a2369ddbc332d16d8ff173b12404b03fea472492",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.9.0"
     },
     {
